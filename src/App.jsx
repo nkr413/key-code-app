@@ -44,13 +44,13 @@ function App() {
         <div class={styles.main_data_block}>
           <div>
             <div>Key Code</div><div>{getKeyCode()}</div>
-          </div>
+          </div><br />
           <div>
             <div>Key</div><div>{getKey()}</div>
-          </div>
+          </div><br />
           <div>
             <div>Code</div><div>{getCode()}</div>
-          </div>
+          </div><br />
         </div>
       </div>
     </div>
